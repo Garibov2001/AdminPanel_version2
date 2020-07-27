@@ -1,0 +1,23 @@
+#datatable-buttons i
+{
+    font-size: 18px;
+}
+
+
+
+.edit-delete-buttons-wrapper
+{
+    top: 30px;
+    right: 30px;
+}
+
+.modal-bodu_sturucture .form-group
+{
+    width: 45%;   
+}
+
+
+.modal-bodu_sturucture input
+{
+    width: 100%;   
+}
